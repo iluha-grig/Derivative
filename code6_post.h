@@ -1,0 +1,12 @@
+void skobcorrect(char *);
+void skobcorrect2(char *);
+void mul1(char *);
+void mul0r(char *);
+void mul0l(char *);
+void muldel0(char *);
+void skob0(char *);
+void plus0(char *);
+void xdelx(char *);
+void step1_post(char *);
+void step0(char *);
+void onestep(char *);
